@@ -1,0 +1,58 @@
+# NetBeans specific
+nbproject/private/        # Configuration privée de NetBeans
+nbproject/Makefile-*.mk   # Fichiers Makefile générés par NetBeans
+nbproject/Package-*.bash  # Scripts de packaging générés par NetBeans
+build/                    # Répertoire de build de NetBeans
+nbbuild/                  # Répertoire nbbuild de NetBeans
+dist/                     # Répertoire dist de NetBeans
+nbdist/                   # Répertoire nbdist de NetBeans
+.nb-gradle/               # Répertoire .nb-gradle de NetBeans
+
+# Maven specific
+target/                   # Répertoire target de Maven
+pom.xml.tag               # Fichiers temporaires de Maven
+pom.xml.releaseBackup     # Fichiers temporaires de Maven
+pom.xml.versionsBackup    # Fichiers temporaires de Maven
+pom.xml.next              # Fichiers temporaires de Maven
+release.properties        # Fichiers temporaires de Maven
+dependency-reduced-pom.xml # Fichiers temporaires de Maven
+buildNumber.properties    # Fichiers temporaires de Maven
+.mvn/timing.properties    # Fichiers temporaires de Maven
+
+# Java specific
+*.class                   # Fichiers bytecode Java
+*.jar                     # Fichiers JAR
+*.war                     # Fichiers WAR
+*.ear                     # Fichiers EAR
+
+# IntelliJ IDEA specific
+.idea/                    # Répertoire de configuration d'IntelliJ IDEA
+*.iml                     # Fichiers de module IntelliJ IDEA
+
+# Eclipse specific
+.project                  # Fichier de projet Eclipse
+.classpath                # Fichier de classpath Eclipse
+.c9/                      # Répertoire de configuration Cloud9
+.settings/                # Répertoire de paramètres Eclipse
+
+# VS Code specific
+.vscode/                  # Répertoire de configuration VS Code
+
+# macOS specific
+.DS_Store                 # Fichier système macOS
+
+# Windows specific
+Thumbs.db                 # Fichier système Windows pour les vignettes
+ehthumbs.db               # Fichier système Windows pour les vignettes
+Desktop.ini               # Fichier système Windows pour les paramètres de dossier
+$RECYCLE.BIN/             # Répertoire de la corbeille de Windows
+
+# Tomcat specific
+logs/                     # Répertoire de logs de Tomcat
+temp/                     # Répertoire temporaire de Tomcat
+work/                     # Répertoire de travail de Tomcat
+
+# Windows temporary files
+*.~*                      # Fichiers temporaires de Windows
+*.tmp                     # Fichiers temporaires de Windows
+*.temp                    # Fichiers temporaires de Windows
