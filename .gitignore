@@ -56,3 +56,4 @@ work/                     # Répertoire de travail de Tomcat
 *.~*                      # Fichiers temporaires de Windows
 *.tmp                     # Fichiers temporaires de Windows
 *.temp                    # Fichiers temporaires de Windows
+/target/
